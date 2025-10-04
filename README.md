@@ -8,13 +8,13 @@
 
 
 ### 🧬 Donate to Support:
-**Litecoin Address:**  
+**Litecoin Address:**
 <code>LVAtwmMzdEXSWW9NrkR9nWxwp2fEz8k7Yz</code>
 
-**Bitcoin Address:**  
+**Bitcoin Address:**
 <code>1EK6ng3H46qHLVq9WTueZSMCWssnKnpfp9</code>
 
-**Sol Address:**  
+**Sol Address:**
 <code>CpoMrkarWhcYb5JRyDSnzG4CMj8ptWAVwtbRCCH3EjwQ</code>
 
 **USDT Address:**
