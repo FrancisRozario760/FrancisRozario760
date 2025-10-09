@@ -32,5 +32,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-kvm?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-kvm?style=flat)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?stylelat-=fsquare&logo=heroku)
 ![Azure](https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoft-azure)
+![CrashOP](https://img.shields.io/badge/crashop-crashop)
+
